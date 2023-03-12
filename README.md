@@ -6,9 +6,9 @@
 
 - My YouTube Channel 👯 [Josh & Bamui](https://www.youtube.com/@joshandbamui)
 
-- Portfolio 👨‍💻 [https://www.notion.so/Jiwon-Shin-Portfolio-b368c102c2f448f8944fda91de2a7161](https://www.notion.so/Jiwon-Shin-Portfolio-b368c102c2f448f8944fda91de2a7161)
+- Portfolio 👨‍💻 [Jiwon Shin Portfolio](https://www.notion.so/Jiwon-Shin-Portfolio-b368c102c2f448f8944fda91de2a7161)
 
-- Blog 📝 [https://blog.naver.com/jadu9391](https://blog.naver.com/jadu9391)
+- Blog 📝 [Naver Blog (in 🇰🇷)](https://blog.naver.com/jadu9391)
 
 - E-mail 📫 **jiwon.g1.shin@gmail.com**
 
