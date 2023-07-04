@@ -12,7 +12,7 @@
 
 - E-mail 📫 **jiwon.g1.shin@gmail.com**
   
-- CodeWars [CodeWars](https://www.codewars.com/users/JiwonGigiShin/badges/small?theme=light)
+- CodeWars <img src='https://www.codewars.com/users/JiwonGigiShin/badges/small?theme=light'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
