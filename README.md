@@ -2,7 +2,7 @@
 
 - Current Project 💻 [K-pop Lyrics Analysis](https://github.com/JiwonGigiShin/kpop_analysis)
 
-- Interests 🎙 **Media, Music, Dance, Entertainment industry, Feminism, Racism, Intersectionality, Climate Crisis**
+- Interests 🎙 **Media, Music, Dance, Entertainment industry, Intersectionality, Climate Crisis**
 
 - My YouTube Channel 👯 [Josh & Bamui](https://www.youtube.com/@joshandbamui)
 
