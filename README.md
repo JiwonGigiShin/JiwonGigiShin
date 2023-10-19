@@ -1,6 +1,6 @@
 <h3 align="center">Content Creator💃 | Independent Researcher🤓 | Data Analyst👩🏻‍💻</h3>
 
-- Current Project 💻 [K-pop Lyrics Analysis](https://github.com/JiwonGigiShin/kpop_analysis)
+- Current Project 💻 [What Happened To K-pop Girlgroups](https://github.com/JiwonGigiShin/what_happend_to_kpop_girlgroups))
 
 - Interests 🎙 **Media, Music, Dance, Entertainment industry, Intersectionality, Climate Crisis**
 
