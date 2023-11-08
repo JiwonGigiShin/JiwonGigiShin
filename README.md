@@ -1,4 +1,4 @@
-<h3 align="center">Content Creator💃 | Independent Researcher🤓 | Data Analyst👩🏻‍💻</h3>
+<h3 align="center">Data Analyst👩🏻‍💻 | Teacher 👩🏻‍🏫 | Content Creator💃 | Researcher🤓 | </h3>
 
 - Current Project 💻 [What Happened To K-pop Girlgroups](https://github.com/JiwonGigiShin/what_happend_to_kpop_girlgroups)
 
