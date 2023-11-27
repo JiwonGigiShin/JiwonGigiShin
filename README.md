@@ -4,8 +4,6 @@
 
 - Interests 🎙 **Media, Music, Dance, Entertainment industry, Intersectionality, Climate Crisis**
 
-- My YouTube Channel 👯 [Josh & Bamui](https://www.youtube.com/@joshandbamui)
-
 - Portfolio 👨‍💻 [Jiwon Shin Portfolio](https://www.notion.so/Jiwon-Shin-Portfolio-b368c102c2f448f8944fda91de2a7161)
 
 - Blog 📝 [Naver Blog (in 🇰🇷)](https://blog.naver.com/jadu9391)
