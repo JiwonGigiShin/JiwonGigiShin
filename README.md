@@ -12,6 +12,8 @@
   
 - CodeWars <img src='https://www.codewars.com/users/JiwonGigiShin/badges/small?theme=light'>
 
+<img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105114363'>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jiwon-shin-gigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiwon-shin-gigi" height="30" width="40" /></a>
